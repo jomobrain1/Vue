@@ -1,8 +1,6 @@
 
-`
-
-
-
+	`
+    
 <script setup>
 import { ref } from 'vue';
 const count=ref(0)
@@ -11,31 +9,11 @@ const count=ref(0)
 <template> 
 
   <main>
-     <h1>Counter Application</h1>
-     <h2>{{count}}</h2>
+     <p>Counter Application</p>
+     <p>{{count}}</p>
      <button @click="count++">increment</button>
      <button @click="count--">decrement</button>
   </main>
 </template>
 
-<style scope>
- 
-</style>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-`
+    `
