@@ -8,4 +8,4 @@
 ### Installing latest vue code using vite
     npm init vue@latest
 
-### Counter app with options api 	[compositian api](./Readme/composition-api.md)
+### Counter app with options api 	[compositian api](./Readme/composition-api.md) and [options api](./Readme/composition-api.md) and 
