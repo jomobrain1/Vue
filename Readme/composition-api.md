@@ -1,5 +1,5 @@
 
-	<code>
+### counter app with composition api
     
             <script setup>
             import { ref } from 'vue';
@@ -16,4 +16,4 @@
             </main>
             </template>
 
-    </code>
+  
