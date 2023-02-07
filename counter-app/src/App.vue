@@ -1,17 +1,6 @@
-<script >
-export default{
-  data() {
-    return {
-      count: 0
-    };
-  },
-
-  methods: {
-    addCount(){
-       this.count++
-    }
-  },
-}
+<script setup>
+import { ref } from 'vue';
+const count=ref(0)
 </script>
 
 <template> 
@@ -19,7 +8,7 @@ export default{
   <main>
      <h1>Counter Application</h1>
      <h2>{{count}}</h2>
-     <button @click="addCount()">increment</button>
+     <button @click="count++">increment</button>
      <button @click="count--">decrement</button>
   </main>
 </template>
