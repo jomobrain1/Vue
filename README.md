@@ -1,4 +1,4 @@
-<center># Vue</center>
+# Vue 
 
 ### vs code extensions for vue
     
