@@ -18,3 +18,7 @@
 | 01  | [Fake notes app](https://github.com/jomobrain1/vue/tree/main/notes-app)                             | [Live Demo](https://jsbits-vue-notes-app.netlify.app/)               |
 | 02  | [Expanding Cards](https://github.com/jomobrain1/jsbits/tree/main/expanding-cards)                               | [Live Demo](https://xpand-cards.netlify.app/)                |
 
+
+
+# Vue Tutorial
+Vue JS 3 Tutorial  by Codevolution [click here](https://www.youtube.com/watch?v=ccsz9FRy-nk&list=PLC3y8-rFHvwgeQIfSDtEGVvvSEPDkL_1f)
